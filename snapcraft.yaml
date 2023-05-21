@@ -24,7 +24,7 @@ apps:
     extensions: [ gnome-3-28 ]
     command: bin/sommelier run-exe
     environment:
-      RUN_EXE: "Joust3_RevengeOfTheLavaTroll.exe"
+      RUN_EXE: "C:/Program Files (x86)/Super X Studios/nvChess/nvChess.exe"
       INSTALL_EXE: "$SNAP/nvChess_setup.exe"
       #INSTALL_FLAGS: "/S"
     plugs:
